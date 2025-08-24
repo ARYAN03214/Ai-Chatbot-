@@ -10,7 +10,7 @@ const override = {
 };
 
 function App() {
-  const apiKey = "AIzaSyBxHl2M-pGpqo0qhcvzQhPbeXE0-RUWqdE";
+  const apiKey = "AJzaLyBxHl2M-pHpso0qhcvzMhPbeYE0-RUWqKA";
 
   // store data use state hook
   // destructuring the useState into prompt and setPrompt
